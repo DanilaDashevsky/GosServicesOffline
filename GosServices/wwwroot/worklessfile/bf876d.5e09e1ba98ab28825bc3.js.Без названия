@@ -1,0 +1,1 @@
+(window.serpWebpackJsonp=window.serpWebpackJsonp||[]).push([["bf876d","bf876d"],{B6gP:function(e,n,t){"use strict";t.d(n,"a",(function(){return i}));var o=t("35VS"),c=t("TYX2"),s=t("yzai"),d=Object(c.withBemMod)(Object(s.b)(),{theme:"normal"})(s.a),i=Object(o.c)({desktop:d},{file:"src/components/Modal/index.ts"})}}]);

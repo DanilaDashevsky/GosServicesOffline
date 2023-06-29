@@ -1,0 +1,1 @@
+(window.serpWebpackJsonp=window.serpWebpackJsonp||[]).push([["1c5400","f6ccbd","972bf2"],{"Cvq/":function(e,t,c){"use strict";c.d(t,"a",(function(){return i}));var n=c("TYX2"),o=c("oTQ/"),i=Object(n.withBemMod)(Object(o.b)(),{view:"default"})},cO7R:function(e,t,c){"use strict";c.d(t,"a",(function(){return i}));var n=c("35VS"),o=c("Cvq/"),i=Object(n.e)({desktop:o.a})}}]);

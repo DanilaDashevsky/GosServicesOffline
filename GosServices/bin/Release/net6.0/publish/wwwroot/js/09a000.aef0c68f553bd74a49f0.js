@@ -1,0 +1,1 @@
+(window.serpWebpackJsonp=window.serpWebpackJsonp||[]).push([["09a000"],{k8lN:function(e,n,p){"use strict";p.d(n,"a",(function(){return t}));var s=p("35VS"),o=p("XdkI"),t=Object(s.e)({desktop:o.a})}}]);

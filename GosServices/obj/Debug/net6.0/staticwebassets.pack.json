@@ -1,0 +1,1313 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\GosServices.bundle.scp.css",
+      "PackagePath": "staticwebassets\\GosServices.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\css\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\css\\StyleSheet.css"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\css\\styles.2e30015dce1215a0da28.css",
+      "PackagePath": "staticwebassets\\css\\styles.2e30015dce1215a0da28.css"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\css\\styles.7d570eddc2e8bf7a.css",
+      "PackagePath": "staticwebassets\\css\\styles.7d570eddc2e8bf7a.css"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\css\\widget-css",
+      "PackagePath": "staticwebassets\\css"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\img\\24ИИЙ6.jpg",
+      "PackagePath": "staticwebassets\\img\\24ИИЙ6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\img\\7ФГ58Ж9.jpg",
+      "PackagePath": "staticwebassets\\img\\7ФГ58Ж9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\img\\9Д7ШЦЛЯ.jpg",
+      "PackagePath": "staticwebassets\\img\\9Д7ШЦЛЯ.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\img\\Another.jpg",
+      "PackagePath": "staticwebassets\\img\\Another.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\img\\Audio.jpg",
+      "PackagePath": "staticwebassets\\img\\Audio.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\img\\Esia_a1.svg",
+      "PackagePath": "staticwebassets\\img\\Esia_a1.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\img\\Gov_services.svg",
+      "PackagePath": "staticwebassets\\img\\Gov_services.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\img\\S122x122Fit_2x",
+      "PackagePath": "staticwebassets\\img"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\img\\S88x88FitScale_2x",
+      "PackagePath": "staticwebassets\\img"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\img\\S88x88FitScale_2x(1)",
+      "PackagePath": "staticwebassets\\img"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\img\\S88x88FitScale_2x(2)",
+      "PackagePath": "staticwebassets\\img"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\img\\S88x88FitScale_2x(3)",
+      "PackagePath": "staticwebassets\\img"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\img\\S88x88FitScale_2x(4)",
+      "PackagePath": "staticwebassets\\img"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\img\\S88x88_2x",
+      "PackagePath": "staticwebassets\\img"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\img\\S88x88_2x(1)",
+      "PackagePath": "staticwebassets\\img"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\img\\account.svg",
+      "PackagePath": "staticwebassets\\img\\account.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\img\\envelope.svg",
+      "PackagePath": "staticwebassets\\img\\envelope.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\img\\fine.svg",
+      "PackagePath": "staticwebassets\\img\\fine.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\img\\fns.svg",
+      "PackagePath": "staticwebassets\\img\\fns.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\img\\fssp.svg",
+      "PackagePath": "staticwebassets\\img\\fssp.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\img\\ic_Another.svg",
+      "PackagePath": "staticwebassets\\img\\ic_Another.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\img\\ic_Book.svg",
+      "PackagePath": "staticwebassets\\img\\ic_Book.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\img\\ic_Car.svg",
+      "PackagePath": "staticwebassets\\img\\ic_Car.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\img\\ic_Family.svg",
+      "PackagePath": "staticwebassets\\img\\ic_Family.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\img\\ic_Fines.svg",
+      "PackagePath": "staticwebassets\\img\\ic_Fines.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\img\\ic_Folder.svg",
+      "PackagePath": "staticwebassets\\img\\ic_Folder.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\img\\ic_Health.svg",
+      "PackagePath": "staticwebassets\\img\\ic_Health.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\img\\ic_Home.svg",
+      "PackagePath": "staticwebassets\\img\\ic_Home.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\img\\ic_Pasport.svg",
+      "PackagePath": "staticwebassets\\img\\ic_Pasport.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\img\\ic_Wallet.svg",
+      "PackagePath": "staticwebassets\\img\\ic_Wallet.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\img\\islands-middle",
+      "PackagePath": "staticwebassets\\img"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\img\\main.d4879b52798e5a7f.js.Без названия",
+      "PackagePath": "staticwebassets\\img\\main.d4879b52798e5a7f.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\img\\ok-gray.svg",
+      "PackagePath": "staticwebassets\\img\\ok-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\img\\ok-orange.svg",
+      "PackagePath": "staticwebassets\\img\\ok-orange.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\img\\pencil-edit.svg",
+      "PackagePath": "staticwebassets\\img\\pencil-edit.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\img\\rutube-black.svg",
+      "PackagePath": "staticwebassets\\img\\rutube-black.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\img\\rutube-gray.svg",
+      "PackagePath": "staticwebassets\\img\\rutube-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\img\\search-blue.svg",
+      "PackagePath": "staticwebassets\\img\\search-blue.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\img\\state_duty.svg",
+      "PackagePath": "staticwebassets\\img\\state_duty.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\img\\telegram-blue.svg",
+      "PackagePath": "staticwebassets\\img\\telegram-blue.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\img\\telegram-gray.svg",
+      "PackagePath": "staticwebassets\\img\\telegram-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\img\\uin.svg",
+      "PackagePath": "staticwebassets\\img\\uin.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\img\\vk-blue.svg",
+      "PackagePath": "staticwebassets\\img\\vk-blue.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\img\\vk-gray.svg",
+      "PackagePath": "staticwebassets\\img\\vk-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\img\\Г4Ш2ГИ.jpg",
+      "PackagePath": "staticwebassets\\img\\Г4Ш2ГИ.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\img\\ГЛЮДЯИ.jpg",
+      "PackagePath": "staticwebassets\\img\\ГЛЮДЯИ.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\img\\ФШП7Л6.jpg",
+      "PackagePath": "staticwebassets\\img\\ФШП7Л6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\01005e.6f0a2252e688c21c4a07.js",
+      "PackagePath": "staticwebassets\\js\\01005e.6f0a2252e688c21c4a07.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\0351bf.b8e598ce816af2694fed.js",
+      "PackagePath": "staticwebassets\\js\\0351bf.b8e598ce816af2694fed.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\079444.5e9096b6f67d3cd8401c.js",
+      "PackagePath": "staticwebassets\\js\\079444.5e9096b6f67d3cd8401c.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\09a000.aef0c68f553bd74a49f0.js",
+      "PackagePath": "staticwebassets\\js\\09a000.aef0c68f553bd74a49f0.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\13-es2015.8619283f1b8c9825bead.js",
+      "PackagePath": "staticwebassets\\js\\13-es2015.8619283f1b8c9825bead.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\13-es2015.8619283f1b8c9825bead.js.Без названия",
+      "PackagePath": "staticwebassets\\js\\13-es2015.8619283f1b8c9825bead.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\1c5400.d5a162b3df9225d8f40f.js",
+      "PackagePath": "staticwebassets\\js\\1c5400.d5a162b3df9225d8f40f.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\3.429.3-esia-frontremoteEntry.js.Без названия",
+      "PackagePath": "staticwebassets\\js\\3.429.3-esia-frontremoteEntry.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\3214f5.702b7ba048905ba70847.js",
+      "PackagePath": "staticwebassets\\js\\3214f5.702b7ba048905ba70847.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\35bf99.f1523a4c8907b395dcc9.js",
+      "PackagePath": "staticwebassets\\js\\35bf99.f1523a4c8907b395dcc9.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\42189f.d04815bc855a628c7422.js",
+      "PackagePath": "staticwebassets\\js\\42189f.d04815bc855a628c7422.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\463912.20c1163b699da4f3244d.js",
+      "PackagePath": "staticwebassets\\js\\463912.20c1163b699da4f3244d.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\477c67.f7541dcaa0fa25d2b0bf.js",
+      "PackagePath": "staticwebassets\\js\\477c67.f7541dcaa0fa25d2b0bf.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\4f8ceb.fab86eaa755558d629a3.js",
+      "PackagePath": "staticwebassets\\js\\4f8ceb.fab86eaa755558d629a3.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\5c9799.c74c7a0a4b246690ebe7.js",
+      "PackagePath": "staticwebassets\\js\\5c9799.c74c7a0a4b246690ebe7.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\6-es2015.fc24361c0c7d90bd6e02.js",
+      "PackagePath": "staticwebassets\\js\\6-es2015.fc24361c0c7d90bd6e02.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\6-es2015.fc24361c0c7d90bd6e02.js.Без названия",
+      "PackagePath": "staticwebassets\\js\\6-es2015.fc24361c0c7d90bd6e02.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\604969.f8d362ae675619e0561d.js",
+      "PackagePath": "staticwebassets\\js\\604969.f8d362ae675619e0561d.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\66c1d4.11f45a27983cacc48cfa.js",
+      "PackagePath": "staticwebassets\\js\\66c1d4.11f45a27983cacc48cfa.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\6767aa.cf2348c30b050fc554ae.js",
+      "PackagePath": "staticwebassets\\js\\6767aa.cf2348c30b050fc554ae.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\69d134.6d18013695adb124172d.js",
+      "PackagePath": "staticwebassets\\js\\69d134.6d18013695adb124172d.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\73060d.d10528f24f062259f6b2.js",
+      "PackagePath": "staticwebassets\\js\\73060d.d10528f24f062259f6b2.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\76f1ce.019f1049d7ce0de3af7f.js",
+      "PackagePath": "staticwebassets\\js\\76f1ce.019f1049d7ce0de3af7f.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\7b87a0.9edec655e38a8622b5c0.js",
+      "PackagePath": "staticwebassets\\js\\7b87a0.9edec655e38a8622b5c0.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\7bc38d.c655283edd6c865df31d.js",
+      "PackagePath": "staticwebassets\\js\\7bc38d.c655283edd6c865df31d.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\7d461e.ee854a95bd897340d375.js",
+      "PackagePath": "staticwebassets\\js\\7d461e.ee854a95bd897340d375.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\7dba00.67754ddb1710f91eb8d6.js",
+      "PackagePath": "staticwebassets\\js\\7dba00.67754ddb1710f91eb8d6.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\951378.f970a9c89e28460de82a.js",
+      "PackagePath": "staticwebassets\\js\\951378.f970a9c89e28460de82a.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\9e89a4.bf5dc8d74a9d5568cd2a.js",
+      "PackagePath": "staticwebassets\\js\\9e89a4.bf5dc8d74a9d5568cd2a.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\La6qi18Z8LwgnZdsAr1qy1GwCwo.gif",
+      "PackagePath": "staticwebassets\\js\\La6qi18Z8LwgnZdsAr1qy1GwCwo.gif"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\S122x122Fit_2x",
+      "PackagePath": "staticwebassets\\js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\S88x88FitScale_2x",
+      "PackagePath": "staticwebassets\\js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\S88x88FitScale_2x(1)",
+      "PackagePath": "staticwebassets\\js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\S88x88FitScale_2x(2)",
+      "PackagePath": "staticwebassets\\js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\S88x88FitScale_2x(3)",
+      "PackagePath": "staticwebassets\\js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\S88x88FitScale_2x(4)",
+      "PackagePath": "staticwebassets\\js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\S88x88_2x",
+      "PackagePath": "staticwebassets\\js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\S88x88_2x(1)",
+      "PackagePath": "staticwebassets\\js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\a4a346.2ab6fde0b469dafd1d28.js",
+      "PackagePath": "staticwebassets\\js\\a4a346.2ab6fde0b469dafd1d28.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\b8e8a2.4c58e55f8042a18dd159.js",
+      "PackagePath": "staticwebassets\\js\\b8e8a2.4c58e55f8042a18dd159.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\bf876d.5e09e1ba98ab28825bc3.js",
+      "PackagePath": "staticwebassets\\js\\bf876d.5e09e1ba98ab28825bc3.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\boot-minimax.js.Без названия",
+      "PackagePath": "staticwebassets\\js\\boot-minimax.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\c2978f.2ba9245979a62e6d1da4.js",
+      "PackagePath": "staticwebassets\\js\\c2978f.2ba9245979a62e6d1da4.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\c5f00c.e8fadd7d4b457eb9b3a7.js",
+      "PackagePath": "staticwebassets\\js\\c5f00c.e8fadd7d4b457eb9b3a7.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\calibrate.min.js",
+      "PackagePath": "staticwebassets\\js\\calibrate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\captcha-plugin-min.js",
+      "PackagePath": "staticwebassets\\js\\captcha-plugin-min.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\captcha-plugin-min.js.Без названия",
+      "PackagePath": "staticwebassets\\js\\captcha-plugin-min.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\cb425c.1dc9c14830c7c1c4b363.js",
+      "PackagePath": "staticwebassets\\js\\cb425c.1dc9c14830c7c1c4b363.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\common-es2015.48a58d256fa1cdd48c66.js",
+      "PackagePath": "staticwebassets\\js\\common-es2015.48a58d256fa1cdd48c66.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\common-es2015.48a58d256fa1cdd48c66.js.Без названия",
+      "PackagePath": "staticwebassets\\js\\common-es2015.48a58d256fa1cdd48c66.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\d40407.42c964604307e324b51c.js",
+      "PackagePath": "staticwebassets\\js\\d40407.42c964604307e324b51c.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\feb173.a258832d746bf986d18a.js",
+      "PackagePath": "staticwebassets\\js\\feb173.a258832d746bf986d18a.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\islands-middle",
+      "PackagePath": "staticwebassets\\js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\jESpjNpX4r1yUW98k8wiD3vuwps.js",
+      "PackagePath": "staticwebassets\\js\\jESpjNpX4r1yUW98k8wiD3vuwps.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\kjB7lBuv2DNpJjTmXoI-dumiH98.js",
+      "PackagePath": "staticwebassets\\js\\kjB7lBuv2DNpJjTmXoI-dumiH98.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\main-chunk.210d1d4edb37d93db04c.js",
+      "PackagePath": "staticwebassets\\js\\main-chunk.210d1d4edb37d93db04c.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\main-es2015.121f46a4a0504649d055.js",
+      "PackagePath": "staticwebassets\\js\\main-es2015.121f46a4a0504649d055.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\main-es2015.121f46a4a0504649d055.js.Без названия",
+      "PackagePath": "staticwebassets\\js\\main-es2015.121f46a4a0504649d055.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\main-es5.121f46a4a0504649d055.js",
+      "PackagePath": "staticwebassets\\js\\main-es5.121f46a4a0504649d055.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\main-es5.121f46a4a0504649d055.js.Без названия",
+      "PackagePath": "staticwebassets\\js\\main-es5.121f46a4a0504649d055.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\main.f41e3bb692b5e0a5.js.Без названия",
+      "PackagePath": "staticwebassets\\js\\main.f41e3bb692b5e0a5.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\nearest.js",
+      "PackagePath": "staticwebassets\\js\\nearest.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\of1KjhgN.js",
+      "PackagePath": "staticwebassets\\js\\of1KjhgN.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\polyfill-es6.import@desktop.945847ba8948bec6171a.js",
+      "PackagePath": "staticwebassets\\js\\polyfill-es6.import@desktop.945847ba8948bec6171a.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\polyfills-es2015.512d42563fbfbdba61e4.js",
+      "PackagePath": "staticwebassets\\js\\polyfills-es2015.512d42563fbfbdba61e4.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\polyfills-es2015.512d42563fbfbdba61e4.js.Без названия",
+      "PackagePath": "staticwebassets\\js\\polyfills-es2015.512d42563fbfbdba61e4.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\polyfills-es5.db08d71b0ee395955b89.js",
+      "PackagePath": "staticwebassets\\js\\polyfills-es5.db08d71b0ee395955b89.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\polyfills-es5.db08d71b0ee395955b89.js.Без названия",
+      "PackagePath": "staticwebassets\\js\\polyfills-es5.db08d71b0ee395955b89.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\polyfills.c87ca66a5621a5cd.js.Без названия",
+      "PackagePath": "staticwebassets\\js\\polyfills.c87ca66a5621a5cd.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\react-with-dom.min.js",
+      "PackagePath": "staticwebassets\\js\\react-with-dom.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\runtime-es2015.8feb1bf121dba5473e5e.js",
+      "PackagePath": "staticwebassets\\js\\runtime-es2015.8feb1bf121dba5473e5e.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\runtime-es2015.8feb1bf121dba5473e5e.js.Без названия",
+      "PackagePath": "staticwebassets\\js\\runtime-es2015.8feb1bf121dba5473e5e.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\runtime-es5.8feb1bf121dba5473e5e.js",
+      "PackagePath": "staticwebassets\\js\\runtime-es5.8feb1bf121dba5473e5e.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\runtime-es5.8feb1bf121dba5473e5e.js.Без названия",
+      "PackagePath": "staticwebassets\\js\\runtime-es5.8feb1bf121dba5473e5e.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\sb.js",
+      "PackagePath": "staticwebassets\\js\\sb.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\sb.js.Без названия",
+      "PackagePath": "staticwebassets\\js\\sb.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\scripts.de8b003191d47354.js.Без названия",
+      "PackagePath": "staticwebassets\\js\\scripts.de8b003191d47354.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\smTfbmz8hKBh7LcnmlQdP0VTkfs.js",
+      "PackagePath": "staticwebassets\\js\\smTfbmz8hKBh7LcnmlQdP0VTkfs.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\tag.js",
+      "PackagePath": "staticwebassets\\js\\tag.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\tag.js.Без названия",
+      "PackagePath": "staticwebassets\\js\\tag.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\watch_serp.js",
+      "PackagePath": "staticwebassets\\js\\watch_serp.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\js\\widget-minimax-201220221.js.Без названия",
+      "PackagePath": "staticwebassets\\js\\widget-minimax-201220221.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\txt\\Main1.txt",
+      "PackagePath": "staticwebassets\\txt\\Main1.txt"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\txt\\Page71.txt",
+      "PackagePath": "staticwebassets\\txt\\Page71.txt"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\01005e.6f0a2252e688c21c4a07.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\01005e.6f0a2252e688c21c4a07.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\0351bf.b8e598ce816af2694fed.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\0351bf.b8e598ce816af2694fed.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\063d87.3ed6aa66b5af06f73788.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\063d87.3ed6aa66b5af06f73788.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\079444.5e9096b6f67d3cd8401c.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\079444.5e9096b6f67d3cd8401c.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\09a000.aef0c68f553bd74a49f0.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\09a000.aef0c68f553bd74a49f0.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\1c5400.d5a162b3df9225d8f40f.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\1c5400.d5a162b3df9225d8f40f.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\1x1.png",
+      "PackagePath": "staticwebassets\\worklessfile\\1x1.png"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\2p8N7eQv.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\2p8N7eQv.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\3214f5.702b7ba048905ba70847.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\3214f5.702b7ba048905ba70847.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\35bf99.f1523a4c8907b395dcc9.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\35bf99.f1523a4c8907b395dcc9.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\42189f.96ad3afd8fcdbde84129.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\42189f.96ad3afd8fcdbde84129.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\463912.1bf509d084d3ba8f3c62.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\463912.1bf509d084d3ba8f3c62.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\477c67.f7541dcaa0fa25d2b0bf.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\477c67.f7541dcaa0fa25d2b0bf.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\4f8ceb.fab86eaa755558d629a3.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\4f8ceb.fab86eaa755558d629a3.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\5c9799.c01a6cd9acc5ea6b6d30.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\5c9799.c01a6cd9acc5ea6b6d30.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\604969.f8d362ae675619e0561d.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\604969.f8d362ae675619e0561d.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\60a31e.23c3a8c2be5b059b7fdf.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\60a31e.23c3a8c2be5b059b7fdf.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\66c1d4.11f45a27983cacc48cfa.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\66c1d4.11f45a27983cacc48cfa.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\6767aa.6eba8bb3974b39157e3b.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\6767aa.6eba8bb3974b39157e3b.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\69d134.6d18013695adb124172d.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\69d134.6d18013695adb124172d.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\73060d.1a8c69b61138f494c458.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\73060d.1a8c69b61138f494c458.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\76f1ce.019f1049d7ce0de3af7f.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\76f1ce.019f1049d7ce0de3af7f.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\7b87a0.9edec655e38a8622b5c0.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\7b87a0.9edec655e38a8622b5c0.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\7bc38d.c655283edd6c865df31d.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\7bc38d.c655283edd6c865df31d.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\7d461e.ee854a95bd897340d375.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\7d461e.ee854a95bd897340d375.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\7dba00.67754ddb1710f91eb8d6.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\7dba00.67754ddb1710f91eb8d6.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\8fded7.7943b92445b557b49cce.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\8fded7.7943b92445b557b49cce.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\918f02.efbdaa89779cab790f67.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\918f02.efbdaa89779cab790f67.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\951378.f970a9c89e28460de82a.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\951378.f970a9c89e28460de82a.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\9e89a4.bf5dc8d74a9d5568cd2a.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\9e89a4.bf5dc8d74a9d5568cd2a.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\Dqe9YziKLs69x1mioKZ8e53h9Ao.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\Dqe9YziKLs69x1mioKZ8e53h9Ao.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\Gov_services.svg",
+      "PackagePath": "staticwebassets\\worklessfile\\Gov_services.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\a4a346.5fbc1a379bd3cf5c4392.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\a4a346.5fbc1a379bd3cf5c4392.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\angular.min-9324788c75.1682593322983.js",
+      "PackagePath": "staticwebassets\\worklessfile\\angular.min-9324788c75.1682593322983.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\angular.min-9324788c75.1682593322983.js.загружено",
+      "PackagePath": "staticwebassets\\worklessfile\\angular.min-9324788c75.1682593322983.js.загружено"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\b8e8a2.4c58e55f8042a18dd159.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\b8e8a2.4c58e55f8042a18dd159.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\bf876d.5e09e1ba98ab28825bc3.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\bf876d.5e09e1ba98ab28825bc3.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\boot-minimax.js",
+      "PackagePath": "staticwebassets\\worklessfile\\boot-minimax.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\boot-minimax.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\boot-minimax.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\bootstrap",
+      "PackagePath": "staticwebassets\\worklessfile"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\c2978f.2ba9245979a62e6d1da4.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\c2978f.2ba9245979a62e6d1da4.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\c5f00c.e8fadd7d4b457eb9b3a7.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\c5f00c.e8fadd7d4b457eb9b3a7.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\calibrate.min.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\calibrate.min.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\cc70d6.c834b199598866a53416.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\cc70d6.c834b199598866a53416.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\clock-921a7364c5.svg",
+      "PackagePath": "staticwebassets\\worklessfile\\clock-921a7364c5.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\cnt.js",
+      "PackagePath": "staticwebassets\\worklessfile\\cnt.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\cnt.js.загружено",
+      "PackagePath": "staticwebassets\\worklessfile\\cnt.js.загружено"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\context.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\context.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\d32e1e.de3d2eb70f673632cf9e.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\d32e1e.de3d2eb70f673632cf9e.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\d40407.42c964604307e324b51c.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\d40407.42c964604307e324b51c.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\directives-min-f140d039a5.1682593322983.js",
+      "PackagePath": "staticwebassets\\worklessfile\\directives-min-f140d039a5.1682593322983.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\directives-min-f140d039a5.1682593322983.js.загружено",
+      "PackagePath": "staticwebassets\\worklessfile\\directives-min-f140d039a5.1682593322983.js.загружено"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\feb173.a258832d746bf986d18a.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\feb173.a258832d746bf986d18a.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\footerCms-min-2e7a4a2cdd.1682593322983.js",
+      "PackagePath": "staticwebassets\\worklessfile\\footerCms-min-2e7a4a2cdd.1682593322983.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\footerCms-min-2e7a4a2cdd.1682593322983.js.загружено",
+      "PackagePath": "staticwebassets\\worklessfile\\footerCms-min-2e7a4a2cdd.1682593322983.js.загружено"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\frgu-min-ba5396f519.1682593322983.js",
+      "PackagePath": "staticwebassets\\worklessfile\\frgu-min-ba5396f519.1682593322983.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\frgu-min-ba5396f519.1682593322983.js.загружено",
+      "PackagePath": "staticwebassets\\worklessfile\\frgu-min-ba5396f519.1682593322983.js.загружено"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\green_ring@1x-378c4d33e4.svg",
+      "PackagePath": "staticwebassets\\worklessfile\\green_ring@1x-378c4d33e4.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\host.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\host.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\ic_Another.svg",
+      "PackagePath": "staticwebassets\\worklessfile\\ic_Another.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\ic_Book.svg",
+      "PackagePath": "staticwebassets\\worklessfile\\ic_Book.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\ic_Car.svg",
+      "PackagePath": "staticwebassets\\worklessfile\\ic_Car.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\ic_Family.svg",
+      "PackagePath": "staticwebassets\\worklessfile\\ic_Family.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\ic_Fines.svg",
+      "PackagePath": "staticwebassets\\worklessfile\\ic_Fines.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\ic_Folder.svg",
+      "PackagePath": "staticwebassets\\worklessfile\\ic_Folder.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\ic_Health.svg",
+      "PackagePath": "staticwebassets\\worklessfile\\ic_Health.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\ic_Home.svg",
+      "PackagePath": "staticwebassets\\worklessfile\\ic_Home.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\ic_Pasport.svg",
+      "PackagePath": "staticwebassets\\worklessfile\\ic_Pasport.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\ic_Wallet.svg",
+      "PackagePath": "staticwebassets\\worklessfile\\ic_Wallet.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\islands-middle",
+      "PackagePath": "staticwebassets\\worklessfile"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\jESpjNpX4r1yUW98k8wiD3vuwps.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\jESpjNpX4r1yUW98k8wiD3vuwps.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\jquery-1.11.1.min-8101d596b2.1682593322983.js",
+      "PackagePath": "staticwebassets\\worklessfile\\jquery-1.11.1.min-8101d596b2.1682593322983.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\jquery-1.11.1.min-8101d596b2.1682593322983.js.загружено",
+      "PackagePath": "staticwebassets\\worklessfile\\jquery-1.11.1.min-8101d596b2.1682593322983.js.загружено"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\jquery.min.3.1.1.j_",
+      "PackagePath": "staticwebassets\\worklessfile\\jquery.min.3.1.1.j_"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\jquery.min.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\jquery.min.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\json.txt",
+      "PackagePath": "staticwebassets\\worklessfile\\json.txt"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\kjB7lBuv2DNpJjTmXoI-dumiH98.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\kjB7lBuv2DNpJjTmXoI-dumiH98.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\main-chunk.1a93f87149058cc27dfc.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\main-chunk.1a93f87149058cc27dfc.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\main.ba37401c371b3a05.js",
+      "PackagePath": "staticwebassets\\worklessfile\\main.ba37401c371b3a05.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\main.ba37401c371b3a05.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\main.ba37401c371b3a05.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\nearest.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\nearest.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\nowork.svg",
+      "PackagePath": "staticwebassets\\worklessfile\\nowork.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\oclazyload-2022b62e59.1682593322983.js",
+      "PackagePath": "staticwebassets\\worklessfile\\oclazyload-2022b62e59.1682593322983.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\oclazyload-2022b62e59.1682593322983.js.загружено",
+      "PackagePath": "staticwebassets\\worklessfile\\oclazyload-2022b62e59.1682593322983.js.загружено"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\ok-gray.svg",
+      "PackagePath": "staticwebassets\\worklessfile\\ok-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\ok-orange.svg",
+      "PackagePath": "staticwebassets\\worklessfile\\ok-orange.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\pages-min-cae0f1b7bb.1682593322983.js",
+      "PackagePath": "staticwebassets\\worklessfile\\pages-min-cae0f1b7bb.1682593322983.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\pages-min-cae0f1b7bb.1682593322983.js.загружено",
+      "PackagePath": "staticwebassets\\worklessfile\\pages-min-cae0f1b7bb.1682593322983.js.загружено"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\player.min.css",
+      "PackagePath": "staticwebassets\\worklessfile\\player.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\player.portal.min.js",
+      "PackagePath": "staticwebassets\\worklessfile\\player.portal.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\player.portal.min.js.загружено",
+      "PackagePath": "staticwebassets\\worklessfile\\player.portal.min.js.загружено"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\polyfill-es6.import@desktop.f0bd22b8b76baffd3aab.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\polyfill-es6.import@desktop.f0bd22b8b76baffd3aab.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\polyfills.a0afbc4406805467.js",
+      "PackagePath": "staticwebassets\\worklessfile\\polyfills.a0afbc4406805467.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\polyfills.a0afbc4406805467.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\polyfills.a0afbc4406805467.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\react-with-dom.min.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\react-with-dom.min.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\red_ring@1x-f1bbc26845.svg",
+      "PackagePath": "staticwebassets\\worklessfile\\red_ring@1x-f1bbc26845.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\runtime.38bb98a39bfbfa63.js",
+      "PackagePath": "staticwebassets\\worklessfile\\runtime.38bb98a39bfbfa63.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\runtime.38bb98a39bfbfa63.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\runtime.38bb98a39bfbfa63.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\rutube-black.svg",
+      "PackagePath": "staticwebassets\\worklessfile\\rutube-black.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\rutube-gray.svg",
+      "PackagePath": "staticwebassets\\worklessfile\\rutube-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\saved_resource",
+      "PackagePath": "staticwebassets\\worklessfile"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\saved_resource(1)",
+      "PackagePath": "staticwebassets\\worklessfile"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\saved_resource(2)",
+      "PackagePath": "staticwebassets\\worklessfile"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\search-blue.svg",
+      "PackagePath": "staticwebassets\\worklessfile\\search-blue.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\single-min-aa64a2ebca.1682593322983.js",
+      "PackagePath": "staticwebassets\\worklessfile\\single-min-aa64a2ebca.1682593322983.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\single-min-aa64a2ebca.1682593322983.js.загружено",
+      "PackagePath": "staticwebassets\\worklessfile\\single-min-aa64a2ebca.1682593322983.js.загружено"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\style_0-d2253f639a.css",
+      "PackagePath": "staticwebassets\\worklessfile\\style_0-d2253f639a.css"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\style_1-2fbc2106aa.css",
+      "PackagePath": "staticwebassets\\worklessfile\\style_1-2fbc2106aa.css"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\style_2-c21044a047.css",
+      "PackagePath": "staticwebassets\\worklessfile\\style_2-c21044a047.css"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\style_3-bdfef25516.css",
+      "PackagePath": "staticwebassets\\worklessfile\\style_3-bdfef25516.css"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\styles.761bb36188114b9a.css",
+      "PackagePath": "staticwebassets\\worklessfile\\styles.761bb36188114b9a.css"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\swipe-ae23a7dae5.1682593322983.js",
+      "PackagePath": "staticwebassets\\worklessfile\\swipe-ae23a7dae5.1682593322983.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\swipe-ae23a7dae5.1682593322983.js.загружено",
+      "PackagePath": "staticwebassets\\worklessfile\\swipe-ae23a7dae5.1682593322983.js.загружено"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\swipeable-marker.svg",
+      "PackagePath": "staticwebassets\\worklessfile\\swipeable-marker.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\tag.js",
+      "PackagePath": "staticwebassets\\worklessfile\\tag.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\tag.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\tag.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\tag.js.загружено",
+      "PackagePath": "staticwebassets\\worklessfile\\tag.js.загружено"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\telegram-blue.svg",
+      "PackagePath": "staticwebassets\\worklessfile\\telegram-blue.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\telegram-gray.svg",
+      "PackagePath": "staticwebassets\\worklessfile\\telegram-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\vk-blue.svg",
+      "PackagePath": "staticwebassets\\worklessfile\\vk-blue.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\vk-gray.svg",
+      "PackagePath": "staticwebassets\\worklessfile\\vk-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\watch_serp.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\watch_serp.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\widget-css",
+      "PackagePath": "staticwebassets\\worklessfile"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\widget-minimax-201220221.js",
+      "PackagePath": "staticwebassets\\worklessfile\\widget-minimax-201220221.js"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\widget-minimax-201220221.js.Без названия",
+      "PackagePath": "staticwebassets\\worklessfile\\widget-minimax-201220221.js.Без названия"
+    },
+    {
+      "Id": "C:\\Users\\hanaz\\source\\repos\\GosServices\\GosServices\\wwwroot\\worklessfile\\widget-minimax-201220221.js.загружено",
+      "PackagePath": "staticwebassets\\worklessfile\\widget-minimax-201220221.js.загружено"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.GosServices.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.GosServices.props",
+      "PackagePath": "build\\GosServices.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.GosServices.props",
+      "PackagePath": "buildMultiTargeting\\GosServices.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.GosServices.props",
+      "PackagePath": "buildTransitive\\GosServices.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

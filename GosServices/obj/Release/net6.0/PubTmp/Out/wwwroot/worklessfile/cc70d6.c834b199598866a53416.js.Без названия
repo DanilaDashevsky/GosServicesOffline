@@ -1,0 +1,1 @@
+(window.serpWebpackJsonp=window.serpWebpackJsonp||[]).push([["cc70d6","cc70d6"],{kQ42:function(n,c,e){"use strict";function o(n){return n.displayName||n.name||"Component"}e.d(c,"a",(function(){return o}))}}]);

@@ -1,0 +1,1 @@
+(window.serpWebpackJsonp=window.serpWebpackJsonp||[]).push([["7bc38d","7bc38d"],{"on2/":function(n,e,c){"use strict";c.d(e,"a",(function(){return i}));var t=c("nAbZ"),r=c("cDcd"),u=c("Qfii");function i(n){var e=Object(u.a)();return Object(t.__read)(Object(r.useState)((function(){return n?n+e.replace("xuniq",""):e})),1)[0]}}}]);

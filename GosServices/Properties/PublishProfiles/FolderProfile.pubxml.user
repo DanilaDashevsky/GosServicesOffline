@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\New\IIS2TEST</_PublishTargetUrl>
+    <History>True|2023-06-28T07:40:36.6206481Z;True|2023-06-28T08:51:57.6710364+03:00;True|2023-06-27T21:37:07.4027186+03:00;True|2023-06-22T11:56:19.6928669+03:00;True|2023-06-22T11:51:38.4863553+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
